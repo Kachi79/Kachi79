@@ -6,11 +6,11 @@
 
 <hr>
 <h1>I am Harris <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
+I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, and Infrastructure Automation.
 
 
 
-- 🌱 I’m currently learning: Kubernetes
+- 🌱 My favorite tech stack is Kubernetes, Docker, CI/CD Jenkins, Terraform, AWS, Prometheus, and Grafana.
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love fruits.
